@@ -1,4 +1,1 @@
-# magic_8_ball
-
-A new Flutter application.
-
+#Magic 8 ball app built with Flutter
